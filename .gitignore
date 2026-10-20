@@ -1,0 +1,9 @@
+node_modules/
+*/node_modules/
+**/node_modules/
+*.log
+npm-debug.log*
+*.tmp
+.env
+.env.local
+.vscode/
