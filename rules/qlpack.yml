@@ -1,0 +1,5 @@
+name: axios-cve-rules
+version: 1.0.0
+dependencies:
+  codeql/javascript-all: "*" 
+  codeql/javascript-queries: "*"
