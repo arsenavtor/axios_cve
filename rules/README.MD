@@ -6,3 +6,9 @@
     
 2. Создание базы данных в папку database - там лежат все представления кода codeql для написания к ним правил
     codeql database create .\axios_cve\database\<cve>-db --language=javascript --source-root=.
+
+
+# Использованные проекты для тестирования
+1) https://github.com/byigitt/visa-checker.git
+
+2) 
